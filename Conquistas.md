@@ -3,7 +3,7 @@
 
  - [Lógica de Programação Essencial](https://github.com/eduardosoara/BootCamp_Dio_TakeBlip_2022/tree/main/Logica_Programacao_Essencial/Cert_Logica_Programacao_Essencial_9403564C.pdf)
 
- - [Primeiros Passos Para Começar a Programar](https://github.com/eduardosoara/BootCamp_Dio_TakeBlip_2022/tree/main/Primeiros_Passos_Desenvolvimento_Web/Cert_Primeiros_Passos_Desenv_Web_B84C3CEE.pdf)
+ - [Primeiros Passos Para Começar a Programar](https://github.com/eduardosoara/BootCamp_Dio_TakeBlip_2022/tree/main/Primeiros_Passos_Para_Programar/Cert_Primeiros_Passos_Para_Comecar_A_Programar_CED84300.pdf)
 
  - [Aprenda o que são Estrutura de Dados e Algoritmos](https://github.com/eduardosoara/BootCamp_Dio_TakeBlip_2022/tree/main/Estrutura_Dados_e_Algoritmos/Cert_Estrutura_de_Dados_95221E64.pdf)
 
